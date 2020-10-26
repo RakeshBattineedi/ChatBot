@@ -1,4 +1,4 @@
-//RAKESH BATTINEEDI
+
 package a2;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -11,7 +11,7 @@ import java.net.Socket;
  * This class only handles one client at a time.  Multiple instances of ChatbotServer
  * will be run on different ports with a port-based load balancer to handle multiple clients.
  *
- * @author RAKESH BATTINEEDI
+ 
  */
 public class ChatbotServer {
 
